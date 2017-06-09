@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.es6.js"],"names":[],"mappings":";;;;;;AAIA;;;;;;kBAEe,kBAAQ,MAAR,CAAe,QAAf,EAAyB,EAAzB,C","file":"app.es6-compiled.js","sourcesContent":["/**\r\n * Created by jay.witcher on 7/21/2016.\r\n */\r\n\r\nimport angular from 'angular';\r\n\r\nexport default angular.module('ng-es6', [])"]}
